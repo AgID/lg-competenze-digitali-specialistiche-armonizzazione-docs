@@ -31,7 +31,7 @@ La figura professionale rappresenta la specifica combinazione di competenze che 
 
 La figura professionale rappresenta la specifica combinazione di competenze che gli attori istituzionali riconoscono valida per agire all’interno di determinate posizioni Lavorative.
 
-.. image:: Processi-di-lavoro.png
+.. image:: media/Processi-di-lavoro.png
   :scale: 50 %
   :alt: Schema processi di lavoro-Competenze-Figura professionale
 
@@ -86,6 +86,6 @@ Di seguito un esempio di quadro sinottico realizzato con la comparazione dei pro
 Prospetto sinottico CP 2011 – ADA – AGID – Repertorio – Esemplificativo sul caso Liguria
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-.. image:: tab.png
+.. image:: media/tab.png
   :scale: 50 %
   :alt: Prospetto sinottico
