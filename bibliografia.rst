@@ -13,4 +13,4 @@ Bibliografia
 
 •	Istat - `Nomenclatura e classificazione delle professioni (2011) <http://professioni.istat.it/sistemainformativoprofessioni/cp2011/>`_ 
 
-•	LeggeE 28 giugno 2012, n. 92 `“Disposizioni in materia di riforma del mercato del lavoro in una prospettiva di crescita.” <http://www.gazzettaufficiale.it/eli/id/2012/07/03/012G0115/sg>`_  
+•	Legge 28 giugno 2012, n. 92 `“Disposizioni in materia di riforma del mercato del lavoro in una prospettiva di crescita.” <www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-06-28;92!vig=>`_  
