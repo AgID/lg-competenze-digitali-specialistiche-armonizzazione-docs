@@ -31,8 +31,8 @@ successive).
    :hidden:
    
    doc/premessa
-   doc/contesto-normativo
-   doc/correlazioni-classificazioni
-   doc/modello-catalogazione
+   doc/contesto-normativo-e-repertorio-nazionale
+   doc/correlazioni-tra-classificazioni
+   doc/modello-di-riferimento-per-catalogazione
    doc/evoluzioni-future
    doc/bibliografia
