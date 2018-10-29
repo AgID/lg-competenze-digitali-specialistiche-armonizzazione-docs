@@ -30,9 +30,9 @@ successive).
    :numbered:
    :hidden:
    
-   premessa
-   contesto-normativo
-   correlazioni-classificazioni
-   modello-catalogazione
-   evoluzioni-future
-   bibliografia
+   doc/premessa
+   doc/contesto-normativo
+   doc/correlazioni-classificazioni
+   doc/modello-catalogazione
+   doc/evoluzioni-future
+   doc/bibliografia
