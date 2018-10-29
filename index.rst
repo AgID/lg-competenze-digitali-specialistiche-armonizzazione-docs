@@ -29,3 +29,10 @@ successive).
    :maxdepth: 3
    :numbered:
    :hidden:
+   
+   premessa.rst
+   contesto-normativo.rst
+   correlazioni-classificazioni.rst
+   modello-catalogazione.rst
+   evoluzioni-future.rst
+   bibliografia.rst
