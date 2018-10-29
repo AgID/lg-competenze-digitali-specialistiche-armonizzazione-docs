@@ -3,7 +3,7 @@ Bibliografia
 
 •	AgID - Linee guida per la qualità delle competenze digitali nelle professionalità ICT (Maggio 2018) 
 
-•	DGR 668/2017 “Il sistema regionale delle professioni - aggiornamento, modifica e riorganizzazione del Repertorio Regionale delle Professioni.” - Regione Liguria - http://iterg.regione.liguria.it/Documenti.asp?comando=Ricerca&AnnoProc=2017&NumProc=5106&Emanante= 
+•	`DGR 668/2017 “Il sistema regionale delle professioni - aggiornamento, modifica e riorganizzazione del Repertorio Regionale delle Professioni.” - Regione Liguria <http://iterg.regione.liguria.it/Documenti.asp?comando=Ricerca&AnnoProc=2017&NumProc=5106&Emanante=>`_ 
 
 •	MINISTERO DEL LAVORO E DELLA PREVIDENZA SOCIALE - DECRETO 30 ottobre 2007  “Comunicazioni obbligatorie telematiche dovute dai datori di lavoro pubblici e privati ai servizi competenti.” - http://www.gazzettaufficiale.it/eli/id/2007/12/27/07A10720/sg
 
