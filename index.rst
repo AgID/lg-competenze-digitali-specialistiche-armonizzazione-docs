@@ -30,9 +30,9 @@ successive).
    :numbered:
    :hidden:
    
-   doc/premessa.rst
-   doc/contesto-normativo-e-repertorio-nazionale.rst
-   doc/correlazioni-tra-classificazioni.rst
-   doc/modello-di-riferimento-per-catalogazione.rst
-   doc/evoluzioni-future.rst
-   doc/bibliografia.rst
+   premessa.rst
+   contesto-normativo-e-repertorio-nazionale.rst
+   correlazioni-tra-classificazioni.rst
+   modello-di-riferimento-per-catalogazione.rst
+   evoluzioni-future.rst
+   bibliografia.rst
